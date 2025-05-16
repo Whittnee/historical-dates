@@ -1,0 +1,33 @@
+.historicalDates {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 78px;
+  margin-top: 170px;
+}
+
+.border {
+  width: 5px;
+  background: linear-gradient(180deg, #3877EE -5%, #EF5DA8 85%);
+}
+
+.title {
+  font-weight: 700;
+  font-size: clamp(1.25rem, 0.6071rem + 3.2143vw, 3.5rem);
+  line-height: 120%;
+  color: var(--accent-color)
+}
+
+@media (width <= 425px) {
+  .historicalDates {
+    margin-top: 60px;
+  }
+  
+  .border {
+    display: none;
+  }
+  .title {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+}

@@ -1,0 +1,26 @@
+.year {
+  font-family: "PT Sans";
+  font-weight: 700;
+  font-size: clamp(3.5rem, 0.9286rem + 12.8571vw, 12.5rem);
+  line-height: 160px;
+  &.blue {
+    color: var(--blue-color);
+  }
+  &.pink {
+    color: #ef5da8;
+  }
+}
+
+@media (width <= 425px) {
+  .year {
+    &.blue {
+      color: #3877EE;
+    }
+  }
+}
+
+@media (width <= 320px) {
+  .year {
+    font-size: 56px;
+  }
+}
