@@ -1,0 +1,1 @@
+export { EventBar } from "./ui/event-bar"
