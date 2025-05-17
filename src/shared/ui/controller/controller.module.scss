@@ -20,3 +20,14 @@
     background-color: #fff;
   }
 }
+
+@media (width <= 425px) {
+  .controller {
+    width: 25px;
+    height: 25px;
+    svg {
+      width: 9px;
+      height: 9px;
+    }
+  }
+}

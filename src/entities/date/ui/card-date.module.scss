@@ -3,7 +3,6 @@
   flex-direction: column;
   gap: 15px;
   align-items: start;
-
 }
 
 .year {
@@ -11,7 +10,7 @@
   font-weight: 400;
   font-size: 25px;
   line-height: 120%;
-  color: #3877EE;
+  color: var(--date-color);
   letter-spacing: 0em;
 }
 
