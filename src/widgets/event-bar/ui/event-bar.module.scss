@@ -103,8 +103,17 @@
     opacity: 1;
   }
 }
+
 @media (width <= 375px) {
   .swiperSlide {
     width: 230px !important;
+    height: 170px;
+  }
+}
+
+@media (width <= 320px) {
+  .swiperSlide {
+    width: 195px !important;
+    height: 180px;
   }
 }
