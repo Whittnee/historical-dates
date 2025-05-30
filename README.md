@@ -22,7 +22,7 @@
 
 ## Технологии 
 
-- React, TS, SCSS, Swiper, GSAP, Webpack,
+- React, TyepScript, SCSS, Swiper, GSAP, Webpack
 
 ## Инструкция по запуску
 
