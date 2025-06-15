@@ -2,7 +2,7 @@
 
 Интерактивное [приложение](https://whittnee.github.io/historical-dates/), позволяющее просматривать значимые исторические события в выбранном временном отрезке.
 
-![alt text](/public/README.png)
+![alt text](/public/README.jpg)
 
 ## Структура проекта
 
@@ -22,7 +22,7 @@
 
 ## Технологии 
 
-- React, TyepScript, SCSS, Swiper, GSAP, Webpack
+- React, TypeScript, SCSS, Swiper, GSAP, Webpack
 
 ## Инструкция по запуску
 
