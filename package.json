@@ -1,7 +1,6 @@
 {
   "name": "historical-dates",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:Whittnee/historical-dates.git",
   "author": "Ayman <aimankinq@gmail.com>",
   "license": "MIT",
