@@ -26,6 +26,6 @@
 1. Склонировать репозиторий:  
 ```git clone https://github.com/Whittnee/historical-dates.git```
 2. Установить все зависимости:  
-```yarn или npm i```
+```pnpm i или npm i```
 3. Теперь можно запустить приложение:  
-```yarn dev или npm run dev```
+```pnpm dev или npm run dev```
